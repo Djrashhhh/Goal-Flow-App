@@ -9,6 +9,7 @@ Core Features:
 - Real-time statistics dashboard
 - Goal completion celebration animations
 - Data Persistence. All data saved locally (no account needed)
+- Motivational Quotes: Random inspirational quotes that change daily
 
   
 Includes gamification Features:
